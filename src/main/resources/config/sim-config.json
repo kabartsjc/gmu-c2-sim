@@ -1,0 +1,8 @@
+{
+	"mode": 1,
+	"exe-name": "exe-1",
+	"latitude-init": 1.863707,
+	"longitude-init": 44.836479,
+	"distribution": "Gaussian",
+	"params": "3.0,0.9"
+}

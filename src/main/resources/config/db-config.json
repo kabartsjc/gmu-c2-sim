@@ -1,0 +1,6 @@
+{
+	"URL": "jdbc:postgresql://localhost:5432/c2sim",
+	"DB_USER": "postgres",
+	"DB_PASSWORD": ""
+	
+}
